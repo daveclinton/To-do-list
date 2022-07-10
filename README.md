@@ -2,4 +2,4 @@
 ### Todo List is wonderful in sharpening Skills in DOM Javascript.
 
 # Step 1: Basic HTML & CSS
-# sTEP 2: Acivate Todo List Using Javascript
+# Step 2: Acivatet Todo List Using Javascript
